@@ -60,9 +60,9 @@
 // |      |     |     |     |     |     |   |     |     |     |     |     |      |
 //                    |     |     |     |   |     |     |     |
                         bindings = <
-   &trans    &trang   &trans &trans   &trans   &trans      &trans    &trans    &trans    &trans   &trans   &trans
-   &trans    &trang   &trans &trans   &trans   &trans      &trans    &trans    &trans    &trans   &trans   &trans
-   &trans    &trang   &trans &trans   &trans   &trans      &trans    &trans    &trans    &trans   &trans   &trans
+   &trans    &trans   &trans &trans   &trans   &trans      &trans    &trans    &trans    &trans   &trans   &trans
+   &trans    &trans   &trans &trans   &trans   &trans      &trans    &trans    &trans    &trans   &trans   &trans
+   &trans    &trans   &trans &trans   &trans   &trans      &trans    &trans    &trans    &trans   &trans   &trans
                              &trans   &trans   &trans      &trans    &trans    &trans
                         >;
                 };
@@ -74,9 +74,9 @@
 // |      |     |     |     |     |     |   |     |     |     |     |     |      |
 //                    |     |     |     |   |     |     |     |
                         bindings = <
-   &trans    &trang   &trans &trans   &trans   &trans      &trans    &trans    &trans    &trans   &trans   &trans
-   &trans    &trang   &trans &trans   &trans   &trans      &trans    &trans    &trans    &trans   &trans   &trans
-   &trans    &trang   &trans &trans   &trans   &trans      &trans    &trans    &trans    &trans   &trans   &trans
+   &trans    &trans   &trans &trans   &trans   &trans      &trans    &trans    &trans    &trans   &trans   &trans
+   &trans    &trans   &trans &trans   &trans   &trans      &trans    &trans    &trans    &trans   &trans   &trans
+   &trans    &trans   &trans &trans   &trans   &trans      &trans    &trans    &trans    &trans   &trans   &trans
                              &trans   &trans   &trans      &trans    &trans    &trans
                         >;
                 };
